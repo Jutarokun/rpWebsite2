@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wochenbericht KW09 2023, Jesse Wetli, Informatiker/Applikationsentwicklung EFZ</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/prism.css">
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="favicon.ico">
+  <link rel="icon" type="image/png" href="favicon.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="favicon.png" sizes="96x96">
+  <link rel="apple-touch-icon" sizes="180x180" href="favicon.png">
+  <meta name="msapplication-TileImage" content="favicon.png">
+  <script src="index.js"></script>
+</head>
+<body>
+  <!-- - - - - - - - - - - - Kopfzeile Start - - - - - - - - - - - -->
+  <header>
+    <!-- Logo Start -->
+    <a href="index.html">
+      <div class="logo">
+        <img src="Jesse.jpg">
+      </div>
+    </a>
+    <!-- Logo Ende -->
+    <!-- Text Start -->
+    <div class="titel">
+      <h1>Wochenbericht KW09 2023</h1>
+      Jesse Wetli<br>
+      Informatiker/Applikationsentwicklung EFZ
+    </div>
+    <!-- Text Ende -->
+    <!-- Navigation Start -->
+    <nav>
+      <div class="arrow"><a href="kw_05_2023.html" title="Forward"><img src="images/arrow_forward.png"></a></div>
+      <div class="overview"><a href="index.html" title="Overview"><img src="images/hamburger.png"></a></div>
+      <div class="arrow"><a href="index.html" title="Next"><img src="images/arrow_next.png"></a></div>
+    </nav>
+    <!-- Navigation Ende -->
+  </header>
+  <!-- - - - - - - - - - - - Kopfzeile Ende - - - - - - - - - - - -->
+  <!-- - - - - - - - - - - - Inhalt Start - - - - - - - - - - - -->
+  <main>
+    <!-- - - - - - - - - - - - Erste Spalte Start - - - - - - - - - - - -->
+    <section>
+      <!-- Beitrag Wochenbericht Start -->
+      <article>
+        <h2>GameMaker</h2>
+        <img src="images/ferien2.png">
+        <legend>Hier ist ein Bild von Game Maker
+        </legend>
+        <h3>Was ist GameMaker</h3>
+        <p>Game Maker ist eine integrierte Entwicklungsumgebung (IDE) und eine plattformübergreifende Spiel-Engine, die von YoYo Games entwickelt wurde. Mit Game Maker können Entwickler Spiele für eine Vielzahl von Plattformen erstellen, darunter Windows, MacOS, iOS, Android und viele mehr.</p>
+        <h3>Fazit</h3>
+        <p>GameMaker ist eine tolle game Engine, mit welcher ich gerne arbeite auch lassen sich damit einfach Multiplayer games erstellen.</p>
+      </article>
+      <article>
+        <h2>Docker</h2>
+        <img src="images/ferien2.png">
+        <legend>Hier ist ein Bild, von GML code
+        </legend>
+        <h3>Was ist Docker?</h3>
+        <p>Docker ist eine Container-Plattform, die es Entwicklern ermöglicht, Anwendungen in isolierten Umgebungen, sogenannten Containern, auszuführen. Ein Docker-Container ist eine leichtgewichtige, portable und selbständige Einheit, die alles enthält, was eine Anwendung benötigt, um fehlerfrei zu funktionieren, wie z.B. Code, Laufzeitumgebung, Bibliotheken und Einstellungen. Durch die Verwendung von Docker können Entwickler sicherstellen, dass ihre Anwendungen in jeder Umgebung konsistent und zuverlässig ausgeführt werden können, unabhängig von den Unterschieden zwischen den Betriebssystemen, auf denen sie ausgeführt werden. Docker ist auch sehr flexibel, da es Entwicklern ermöglicht, Container schnell zu erstellen, zu verteilen und zu skalieren, was die Entwicklung und Bereitstellung von Anwendungen erleichtert.</p>
+        <h3>Fazit</h3>
+        <p>Ich fand es cool Docker zu benutzen und es war auch sehr interessant. Ich möchte aber noch mehr über Docker lernen, weil ich warscheinlich nur eine kleine Fassette davon gesehen habe.</p>
+      </article>
+      <!-- Beitrag Wochenbericht Ende -->
+    </section>
+    <!-- - - - - - - - - - - - Erste Spalte Ende - - - - - - - - - - - -->
+    <!--- - - - - - - - - - - Zweite Spalte Start - - - - - - - - - - - -->
+    <section>
+      <!-- Tagesreflexionen Start -->
+      <h2>Tagesreflexionen</h2>
+      <hr>
+      <strong>ZLI, Montag 27.02.2023</strong><br>
+      Heute war ein etwas außergewöhnlicher Tag, denn wir hatten schulfrei, aber da wir im ZLI arbeiten, welches sich natürlich in Zürich befindet und es ein Feiertag von Winterthur ist, mussten wir ins ZLI gehen. Aber der Tag war an sich nicht allzu spektakulär, wir haben an Schulaufträgen und an Aufträgen aus dem ZLI gearbeitet. Ich habe heute eine gute Dokumentation geschrieben und ich habe viele neue Dinge über das Zitieren von Quellen gelernt und so war der Tag auch schon schnell wieder vorbei und ich würde im Allgemeinen sagen, dass der Tag gut verlief und ich kann stolz sagen, dass ich den ganzen Tag wieder so machen würde, wie ich ihn gemacht habe. Ich würde einfach an diesem Tag nichts ändern, weil ich ihn toll fand. Ich habe mich den ganzen Tag über gut gefühlt und andere haben mich an diesem Tag auch wie immer erlebt. Weil ich viel schreibe „andere haben mich an diesem Tag wie immer erlebt“, definiere ich mal wie immer. Das heißt, dass ich, wenn ich helfen konnte, geholfen habe und dass ich konzentriert und auch produktiv gearbeitet habe.
+      <hr>
+      <strong>BBW, Dienstag 28.02.2023</strong><br>
+      Heute hatten wir wieder schule und der Tag an sich war interessant, aber auch ein bisschen stressig, aber zudem komme ich später noch. Zuerst will ich einmal darüber reden, was ich an diesem Tag gut gemacht habe. Ich bin ganz besonders stolz auf meinen ersten selbst erstellten Docker Container und ich würde auch behaupten, dass ich mir das irgendwie anstrengender und komplizierter vorgestellt habe. Ich hatte an diesem Tag keine grösseren Probleme und wenn ich welche hatte, dann konnte ich nachfragen oder Googeln. Ich würde sagen, dass ich den ganzen Tag wieder so machen würde und ich würde auch nichts daran ändern, weil ich einfach daran nichts ändern würde. Mir ging es an diesem Tag gut und andere haben mich auch wie immer erlebt.
+      <hr>
+      <strong>ZLI, Mittwoch, 01.03.2023</strong><br>
+      Heute war ein sehr interessanter Tag im ZLI, denn wir konnten unsere Sportferien Projekte vorstellen und ich muss sagen, dass uns unsere Präsentation sehr gut gelungen ist und so würde ich auch behaupten, dass ich darauf stolz bin. Sowohl bin ich auch von unserem Endprodukt überzeugt, welches wir abgeliefert haben. Die anderen Präsentationen waren auch sehr interessant und ich würde an diesem Tag nichts anders machen und ihn einfach wieder so machen, wie ich ihn heute gemacht habe. Wenn ich so zurückdenke, muss ich noch sagen, dass der Tag sehr anstrengend war. Denn so vielen Präsentationen zuzuhören, war echt anstrengend. Aber ich habe mich den ganzen Tag gut gefühlt und andere haben mich wie immer erlebt.
+      <hr>
+      <strong>ZLI, Dienstag, 02.03.2023</strong><br>
+      Heute war ein normaler Tag im ZLI und ich kann leider nicht so viel darüber erzählen, denn er war ziemlich ein Standard Tag, was nicht heißen muss das er langweilig war. Er war einfach nicht so besonders wie die ganze Woche. Darum kann ich nicht allzu viel darüber erzählen, aber wir haben die Java Grundlagen nochmals weitergeführt und heute war der Zeitpunkt an diesem ich OOP endlich verstanden habe (also so richtig verstanden habe). Das würde ich zu meinen Erfolgen an diesem Tag zählen. Ich würde den ganzen Tag wieder so machen, wie ich ihn heute gemacht habe und ich würde daran nichts ändern. Ich habe mich eigentlich den ganzen Tag über sehr gut gefühlt und andere haben mich wie immer erlebt.
+      <hr>
+      <strong>ZLI, Freitag, 03.03.2023</strong><br>
+      Heute war wie gestern ein Tag, welcher ich den Java Grundlagen widmete und heute war ich sehr produktiv, aber ansonsten kann ich auch wieder nicht sehr viel über diesen Tag erzählen, weil er wie der vorherige war. Ich würde sagen, dass ich heute gut und konzentriert gearbeitet habe und ich bin stolz, dass ich die Bank Aufgabe geschafft habe. Ich würde den ganzen Tag wieder so machen, wie ich ihn gemacht habe. Ich würde an diesem Tag nichts anders machen. Ich habe mich den Tag über sehr gut gefühlt und andere haben mich auch wie immer erlebt.
+      <hr>
+      <!-- Tagesreflexionen Ende -->
+      <!-- Leistungen Start -->
+      <h2>Leistungen</h2>
+      <i>Mit diesen Leistungen bin ich …</i><br><br>
+      <i>… (sehr) zufrieden: </i>
+      <hr>
+      <strong>ZLI:</strong> Ich habe gut und konzentriert an unserem Game gearbeitet.
+      <hr>
+      <strong>BZZ/TBZ/SFGZ:</strong> Ich hatte keine Schule.
+      <hr>
+      <i>… (eher) unzufrieden: </i>
+      <hr>
+      <strong>ZLI:</strong> nichts
+      <hr>
+      <strong>BZZ/TBZ/SFGZ:</strong> nichts
+      <hr>
+      <!-- Leistungen Ende -->
+      <!-- Ziele Start -->
+      <h2>Ziele</h2>
+      <hr>
+      <strong>ZLI:</strong> Ich möchte den Wochenbericht mit den korrekten Vorgaben abgeben<br>
+      <hr>
+      <strong>BZZ/TBZ/SFGZ:</strong> Ich möchte jeden Tag ein bisschen an meinen Aufträgen arbeiten, dass wenn ich mal eine Prüfung habe, dass ich nicht mehr so viel lernen muss.<br>
+      <hr>
+      <!-- Ziele Ende -->
+      <!-- Bemerkungen Start -->
+      <h2>Bemerkungen</h2>
+      <hr>
+      <p>Puhh es sind endlich Ferien :)</p>
+      <hr>
+      <!-- Bemerkungen Ende -->
+      <!-- Stimmungen Start !!! Bitte entsprechender Radiobutton auf «checked="checked"» setzten !!! -->
+      <h2>Stimmunglage</h2>
+      <hr>
+      <img src="images/icon_happy.png"
+        style="width: 30px; height: 30px; vertical-align: -20px;">&nbsp;&nbsp;&nbsp;<input type="radio"
+        name="stimmungslage" checked="checked">&nbsp;&nbsp;&nbsp;<input type="radio"
+        name="stimmungslage">&nbsp;&nbsp;&nbsp;<input type="radio" name="stimmungslage">&nbsp;&nbsp;&nbsp;<input
+        type="radio" name="stimmungslage">&nbsp;&nbsp;&nbsp;<img src="images/icon_sad.png"
+        style="width: 30px; height: 30px; vertical-align: -20px;">
+      <hr>
+      <!-- Stimmungen Ende -->
+    </section>
+    <!-- - - - - - - - - - - - Zweite Spalte Ende - - - - - - - - - - - -->
+  </main>
+  <!-- - - - - - - - - - - - Inhalt Ende - - - - - - - - - - - -->
+  <!-- - - - - - - - - - - - Fusszeile Start - - - - - - - - - - - -->
+  <footer>
+    <strong>Wochenbericht KW09 2023</strong><br>
+    Jesse Wetli<br>
+    Informatiker/Applikationsentwicklung EFZ
+  </footer>
+  <!-- - - - - - - - - - - - Fusszeile Ende - - - - - - - - - - - -->
+  <script src="js/prism.js"></script>
+</body>
+<style>
+</style>
+</html>
